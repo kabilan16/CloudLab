@@ -1,0 +1,11 @@
+-o Acquire::http::proxy=false
+
+Cloud 
+
+1) Installation of openstack
+2) Creating a VM
+3) Deploying/running an application on the VM
+
+Analytics
+
+1) Installation of hadoop
