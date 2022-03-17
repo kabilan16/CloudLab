@@ -1,5 +1,5 @@
 -o Acquire::http::proxy=false
-lab password: dioPlDVTKaeNLor9O6cxOi0XMA4j9bDR
+
 Cloud 
 
 1) Installation of openstack (10/03/22)
@@ -9,3 +9,34 @@ Cloud
 Analytics
 
 1) Installation of hadoop (12/03/22)
+
+openstack:
+lab password: dioPlDVTKaeNLor9O6cxOi0XMA4j9bDR
+KEY PAIR:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA2Kz7ip8JVWTm7tuswrBOJX/I5/yqS3nAuCxDAaBFkgmHpqwL
+wT++6+FJT9efqlVznADYaP66pyvN0ibO94pj02e596l+xAAF8+E76BwnxRgUcSF9
+7ePVshE6wCbrRUV7EwSyQfxn+gqf+GYPQSxzEilWh7CrXDIDljS6GaFPNdGNQY4K
+tFMJeYuZummj9KonUsyvl523CDCXqw06pRe4iZ1c0S2Iyu2HzYqCU996euxYYYRl
+vRw3RsK8joLy4Lc2M10M/FYauLxH8mrnmeqHuE27GvvrBrW3hPLl4/vYQHYnS8SX
+mrZxAmQ4sx7OuUqCz7gskmvkXBtdjWymDC2FVQIDAQABAoIBAFnyhYGoP7Gpb4yc
+uP0hP2+luntDklY+ttg915snM3pKZnu0VDTnB5TYMxzoACovywxp9Wywwj9/mbOx
+1J1CX+p01uiO/kbTU6VITRwwA/p34pSMOMC2ohGHwYHfJi/dhhgBDRcDdw5/tqTh
+iVee4i4Z5wfxOVHOmVqTjOXy5vUJwyp/9uWYPtyUiy/wvHIl5w18OcNya7Vj5qbx
+KysPZHA4L7RzulBnxOZChi3vk8AaFpRNvKgC+g5SqPItJYqmyxODGLLYgiN3P3eg
+FH2McNZ1K4MbJg3fWv6RU6IehyHwzvQII5+yqMmDf862fuGpM0nRJlGaEH3U+WHG
+vi8qcwECgYEA8HTdTndnHyMnw98Jqt6MgZbwm+NUnDUgiSTEdkabHoE+z6xmJLX3
+Qggp1fpl9XI4xVSVTqvzltH+LFsGl/hlY7obMo7eDh+DgbfnZEAtT4qRK3CRv/C0
+u4aLb9eAHaB5554pDZxtJr0Tw0HizwoSetZjdYhcq4gcdN8diNyvTqECgYEA5q6W
+aaTU1qnXOBu85kI5o6thdPwUayDnQYRimuOXRgIApLMT2MxkyVZGAIY17GSd6Cq4
+1/fP/KPY4FN/JJ2Q3qDLjXnIxmvaoYqYLPkcl6jj+CEj1FGqtUpDFNVEB9ryb3iy
+LpbQjyq4RdibOof6zYLqTxfBoPm7znCK7B/PfjUCgYBpWTowi52xhayBY3GP3CtB
+B4lpMwM54QjdLS+qBismBUgoooap5NNsqbjyl98d1ypKQlGcAzgYxu4OLt9Hq7t4
+IuyRjQh6tZHfPlxxjrCLXdFWb95bcrEsS7lBifAGiu197cxcu0ETLNnAvVgKj4Yj
+LVSsBM9dE6gsCCifctiXoQKBgQCwEjYQMJWbu0rgMpu+DHI+MINUbUuQcS7R3R/+
+JRTDhKfFDkJpyahr3IPVxprF8g5stJ8diLKhnNXecxyqb/GxW33CYGAUwyG/BzAb
+s5BVWb2XGIRmfGcVtLb64cTpUf6VgsRNtyM9A1hfR3ND+6I81l3NPM639aWZbmE6
+1RTkuQKBgQDuxgVSR3GU1ASXXt7whQy+Q/Uv8FrJ5QX+bjujGm2HsOSBgAaIBINo
+ysxoQ1t6ufiRZHru1lVKhh8QHfC5Son26/VNczGSGpTGtpwsJmPkohdM9/nIO3cj
+TpfG5NQnjvPaNJXmxOHB1Ri2yyVfRtF7WhoAX2cE1CFyZsme0r0ynQ==
+-----END RSA PRIVATE KEY-----
