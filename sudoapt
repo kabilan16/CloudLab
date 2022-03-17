@@ -3,7 +3,14 @@
 Cloud 
 
 1) Installation of openstack (10/03/22)
+
+
 2) Creating a VM (17/03/22)
+
+microstack launch cirros -n test(instance name)
+sudo ssh -i /home/ubuntu/snap/microstack/common/.ssh/id_microstack cirros@10.20.20.199
+
+
 3) Deploying/running an application on the VM
 
 Analytics
