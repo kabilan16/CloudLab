@@ -47,3 +47,5 @@ s5BVWb2XGIRmfGcVtLb64cTpUf6VgsRNtyM9A1hfR3ND+6I81l3NPM639aWZbmE6
 ysxoQ1t6ufiRZHru1lVKhh8QHfC5Son26/VNczGSGpTGtpwsJmPkohdM9/nIO3cj
 TpfG5NQnjvPaNJXmxOHB1Ri2yyVfRtF7WhoAX2cE1CFyZsme0r0ynQ==
 -----END RSA PRIVATE KEY-----
+
+sudo snap restart microstack
