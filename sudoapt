@@ -59,3 +59,6 @@ install pip
 then install jupyter notebook
 install numpy scipy matplotlib pandas using pip
 work in jupyter notebook
+
+work on IRIS dataset
+(csv file included)
