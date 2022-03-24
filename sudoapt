@@ -49,3 +49,13 @@ TpfG5NQnjvPaNJXmxOHB1Ri2yyVfRtF7WhoAX2cE1CFyZsme0r0ynQ==
 -----END RSA PRIVATE KEY-----
 
 sudo snap restart microstack
+
+
+24/03/22
+
+python:
+
+install pip
+then install jupyter notebook
+install numpy scipy matplotlib pandas using pip
+work in jupyter notebook
