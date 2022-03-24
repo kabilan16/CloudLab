@@ -57,8 +57,15 @@ python:
 
 install pip
 then install jupyter notebook
-install numpy scipy matplotlib pandas using pip
+install numpy scipy matplotlib pandas sklearn using pip
 work in jupyter notebook
 
 work on IRIS dataset
 (csv file included)
+can be done directly online too.
+
+https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+
+
