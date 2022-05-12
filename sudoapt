@@ -1,5 +1,8 @@
 -o Acquire::http::proxy=false
 
+su hdoop
+root
+
 Cloud 
 
 1) Installation of openstack (10/03/22)
